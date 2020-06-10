@@ -1,0 +1,27 @@
+{
+  "instructionGetList": [{
+    "name": "映众GTX1650 4G黑金至尊",
+    "realMoney": "899",
+    "discountMoney": "849",
+    "channel": "拼多多下单,默认包邮",
+    "img": "https://mmbiz.qpic.cn/mmbiz_jpg/2jibbxPHgYZyD7zvdwevMpLIhQP70dqEic1N80V52WG5xJzbeRayibeMAiaPh2c6veTr6sickUEiajJR0WY7iat2ffWsA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"
+  }, {
+    "name": "映泰Z490GTN 17*17 ITX主板 送七彩虹DDR4 3200 8G内存",
+    "realMoney": "1399",
+    "discountMoney": "1199",
+    "channel": "淘宝下单,默认包邮",
+    "img": "https://mmbiz.qpic.cn/mmbiz_png/2jibbxPHgYZwshEvBA74ib22rLKNxNYwAA4bIfpJJO5Hbn7ibD23cC7Mz3es0ukWoAnlWmQ0FaOdjhKbriaShaOwIg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"
+  }, {
+    "name": "映泰Z490GTA 大主板 送七彩虹DDR4 3200 8G内存",
+    "realMoney": "1599",
+    "discountMoney": "1299",
+    "channel": "淘宝下单,默认包邮",
+    "img": "https://mmbiz.qpic.cn/mmbiz_png/2jibbxPHgYZwshEvBA74ib22rLKNxNYwAATxicayYKZkXMjBeIIsRJ2hwlq3yxhTicpa40dYQoEquhl0z9nRHm9rug/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"
+  }, {
+    "name": "映泰Z490GTA EVO 大主板 送七彩虹DDR4 3200 8G内存",
+    "realMoney": "1799",
+    "discountMoney": "1599",
+    "channel": "淘宝下单,默认包邮",
+    "img": "https://mmbiz.qpic.cn/mmbiz_png/2jibbxPHgYZwshEvBA74ib22rLKNxNYwAAsibnFRLLFl55PbByhppSHJr6AyO1VBcosx5BYhBKAlYf9wXWmqhicLWw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"
+  }]
+}
